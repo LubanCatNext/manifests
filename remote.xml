@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- <remote name="origin" fetch="ssh://git@gitlab.ebf.local/rockchip/linux/"/> -->
-  <remote name="origin" fetch="https://github.com/LubanCat/"/>
+  <remote name="origin" fetch="https://github.com/LubanCatNext/"/>
 
   <default remote="origin" sync-j="4"/>
 </manifest>
